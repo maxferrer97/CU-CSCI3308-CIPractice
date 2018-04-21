@@ -2,7 +2,11 @@
  * geometry_test.c
  * Andy Sayler
  * CSCI 3308
- * Summer 2014
+/*
+ * geometry_test.c
+ * Juan Fran Ferrer
+ * CSCI 3308
+ * Spring 2018
  *
  * This file containsunit tests for geometry.c
  *
